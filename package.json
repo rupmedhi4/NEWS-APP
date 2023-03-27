@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "react-infinite-scroll-component": "^6.1.0",
-    "react-router-dom": "^6.9.0"
+    "react-router-dom": "^6.9.0",
+    "react-top-loading-bar": "^2.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
